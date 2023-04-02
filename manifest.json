@@ -1,0 +1,23 @@
+{
+    "name": "eDarling: Dating, Flirt & Friends",
+    "short_name": "eDarling",
+    "start_url": "/edarling/index02",
+    "display": "standalone",
+    "background_color": "#fa5c61",
+    "description": "Dating, Flirt & Friends",
+    "theme_color": "#fa5c61",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "/edarling/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+      {
+        "src": "/edarling/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
